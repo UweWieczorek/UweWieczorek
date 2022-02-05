@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @UweWieczorek
 - 👀 I’m interested in infrastructure (AD/Exchange) and security topics
-- 🌱 I’m currently learning Active-Directory and Azure security topics
-- 💞️ I’m looking to collaborate on Active-Directory 
+- 🌱 I’m an expert in Active-Directory, Azure, Security and Passwordless Authentication
+- 💞️ I’m looking for customers they more more information about my topics
 - 📫 How to reach me via email
 
 <!---
